@@ -11,6 +11,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=longieirl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=longieirl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=longieirl&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longieirl&layout=compact&theme=react)
+
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=longieirl&theme=react-dark)
 
 
