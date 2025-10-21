@@ -11,10 +11,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=longieirl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=longieirl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=longieirl&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longieirl&layout=compact&theme=react)
+# 🧰 Tools & Workflow
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
+# 📈 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=longieirl&theme=react-dark)
 
 
