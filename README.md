@@ -52,6 +52,8 @@ Full-stack developer specialising in **SAP enterprise solutions**, **cloud-nativ
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Yeoman](https://img.shields.io/badge/Yeoman-5AADBB?style=for-the-badge&logo=yeoman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![npx](https://img.shields.io/badge/npx-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
