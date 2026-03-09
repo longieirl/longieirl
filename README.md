@@ -52,6 +52,8 @@ Full-stack developer specialising in **SAP enterprise solutions**, **cloud-nativ
 ![Yeoman](https://img.shields.io/badge/Yeoman-5AADBB?style=for-the-badge&logo=yeoman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![npx](https://img.shields.io/badge/npx-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
